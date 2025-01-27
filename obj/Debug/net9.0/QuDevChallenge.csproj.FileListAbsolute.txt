@@ -1,0 +1,14 @@
+/Users/ilnamjeong/Projects/DotNet/QuDevChallenge/bin/Debug/net9.0/QuDevChallenge
+/Users/ilnamjeong/Projects/DotNet/QuDevChallenge/bin/Debug/net9.0/QuDevChallenge.deps.json
+/Users/ilnamjeong/Projects/DotNet/QuDevChallenge/bin/Debug/net9.0/QuDevChallenge.runtimeconfig.json
+/Users/ilnamjeong/Projects/DotNet/QuDevChallenge/bin/Debug/net9.0/QuDevChallenge.dll
+/Users/ilnamjeong/Projects/DotNet/QuDevChallenge/bin/Debug/net9.0/QuDevChallenge.pdb
+/Users/ilnamjeong/Projects/DotNet/QuDevChallenge/obj/Debug/net9.0/QuDevChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilnamjeong/Projects/DotNet/QuDevChallenge/obj/Debug/net9.0/QuDevChallenge.AssemblyInfoInputs.cache
+/Users/ilnamjeong/Projects/DotNet/QuDevChallenge/obj/Debug/net9.0/QuDevChallenge.AssemblyInfo.cs
+/Users/ilnamjeong/Projects/DotNet/QuDevChallenge/obj/Debug/net9.0/QuDevChallenge.csproj.CoreCompileInputs.cache
+/Users/ilnamjeong/Projects/DotNet/QuDevChallenge/obj/Debug/net9.0/QuDevChallenge.dll
+/Users/ilnamjeong/Projects/DotNet/QuDevChallenge/obj/Debug/net9.0/refint/QuDevChallenge.dll
+/Users/ilnamjeong/Projects/DotNet/QuDevChallenge/obj/Debug/net9.0/QuDevChallenge.pdb
+/Users/ilnamjeong/Projects/DotNet/QuDevChallenge/obj/Debug/net9.0/QuDevChallenge.genruntimeconfig.cache
+/Users/ilnamjeong/Projects/DotNet/QuDevChallenge/obj/Debug/net9.0/ref/QuDevChallenge.dll
